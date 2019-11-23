@@ -18,7 +18,7 @@ function App() {
         <br />
         <div class="row weather-forecast" id="forecast" />
         <small>
-          <a href="https://hopeful-euler-f54ff6.netlify.com" target="blank">
+          <a href="https://github.com/Simona-de/weather-react" target="blank">
             {" "}
             Oper source code
           </a>{" "}
