@@ -12,7 +12,7 @@ function App() {
         <p id="date">Monday 16:00</p>
         <Cities />
         <CurrentLoc />
-        <Temperature />
+        <Temperature city="Tokyo" />
         <br />
         <br />
         <br />
